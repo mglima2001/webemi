@@ -1,0 +1,204 @@
+.emi-cardsfaq .itemorientacion h4 {
+  color: #3ea0e2; }
+
+.emi-cardsfaq .ulsubfaqs li {
+  list-style: none; }
+
+.emi-cardsfaq .ulsubfaqs li:before {
+  content: "\f111";
+  color: #3ea0e2;
+  font-family: 'FontAwesome';
+  font-size: 8px; }
+
+#custom-search-input {
+  border: solid 1px #cccccc;
+  border-radius: 5px;
+  background-color: #fff;
+  position: relative; }
+
+#custom-search-input input {
+  border: 0;
+  box-shadow: none; }
+
+#custom-search-input .emi-btn-faqsearlup, #custom-search-input .emi-btn-faqsearcls {
+  margin: 0px;
+  background: none;
+  box-shadow: none;
+  border: 0;
+  color: #666666;
+  padding: 0 8px 0 10px; }
+
+#custom-search-input .emi-btn-faqsearcls {
+  color: white; }
+
+.emi-preguntasconten .inpsearch .btn-faqsear {
+  background: #3ea0e2;
+  border-radius: 0 5px 5px 0px; }
+
+.emi-preguntasconten .inpsearch .btn-faqsear .emi-btn-faqsear {
+  margin: 0px;
+  background: none;
+  box-shadow: none;
+  border: 0;
+  color: white;
+  padding: 0 28px;
+  font-weight: 300; }
+
+.emi-preguntasconten .inpsearch .emi-faq-input {
+  height: 50px; }
+
+#custom-search-input button:hover {
+  border: 0;
+  box-shadow: none;
+  border-left: solid 1px #ccc; }
+
+#custom-search-input .glyphicon-search {
+  font-size: 15px; }
+
+#custom-search-input .glyphicon-remove {
+  font-size: 15px;
+  margin-right: 10px; }
+
+.input-lg {
+  font-size: 16px; }
+
+.btnsearch {
+  background-color: #009ee0 !important;
+  margin-top: -21px  !important;
+  min-height: 55px  !important;
+  margin-bottom: -21px  !important;
+  color: white !important;
+  font-size: 14px; }
+
+.divsearch {
+  background-color: #ebebeb;
+  padding: 15px; }
+
+.paddingCardsSearch {
+  margin-top: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+  width: inherit !important; }
+
+.titlesearch {
+  font-weight: 400;
+  padding: 35px 0 10px 0;
+  color: #555 !important; }
+
+.descsearch {
+  margin-bottom: 20px;
+  font-size: 16px; }
+
+.inpsearch {
+  margin-bottom: 25px; }
+
+.paddingCardsSearchdesc {
+  margin-top: 20px;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-bottom: 20px; }
+
+.rowcardfaqs {
+  margin-left: 15px !important;
+  margin-right: 15px !important; }
+
+.cardfqas {
+  margin-bottom: 15px; }
+
+.cardfqa {
+  padding: 16px; }
+
+.itemssub {
+  overflow-y: scroll;
+  height: 100%; }
+
+.itemsubcategory a:hover {
+  text-decoration: underline; }
+
+.asub {
+  font-weight: inherit !important; }
+
+.ulsubfaqs {
+  display: block;
+  list-style-type: disc;
+  -webkit-margin-before: 1em;
+  -webkit-margin-after: 1em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  -webkit-padding-start: 16px; }
+
+.divsearchfloat {
+  background: white;
+  border: solid 1px #cccccc;
+  border-radius: 0px 0 5px 5px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+  height: 400px;
+  padding: 12px;
+  top: 5px;
+  overflow-y: scroll; }
+
+.divsearchfloat::-webkit-scrollbar {
+  width: 10px; }
+
+.divsearchfloat::-webkit-scrollbar-track {
+  background: #f2f2f2; }
+
+.divsearchfloat::-webkit-scrollbar-thumb {
+  background: rgba(221, 221, 221, 0.76);
+  border-radius: 4px; }
+
+.emi-preguntasconten .emi-ayudacont {
+  border-bottom: 1px solid lightgray;
+  float: left;
+  margin: 5px;
+  padding-bottom: 5px;
+  width: 99%; }
+
+.emi-preguntasconten .emi-ayuda {
+  border: none;
+  border-radius: 10px;
+  background: #fff;
+  position: relative;
+  display: block;
+  float: left;
+  width: 100%;
+  padding: 10px; }
+
+.emi-preguntasconten .emi-ayuda:hover {
+  background-color: #f2f2f2;
+  cursor: pointer; }
+
+.emi-preguntasconten2 .emi-ayuda2 {
+  border: none;
+  border-radius: 10px;
+  background: #fff;
+  position: relative;
+  display: block;
+  float: left;
+  width: 100%;
+  padding: 10px; }
+
+.searchcategory {
+  font-weight: bold;
+  font-size: 16px; }
+
+.emi-ayuda .searchsubcategory {
+  color: #3ea0e2;
+  font-weight: 700;
+  margin: 0px 0 12px 0;
+  padding: 0; }
+
+.searchquestion {
+  font-weight: inherit !important; }
+
+.emi-preguntasconten2 {
+  float: left;
+  width: 100%;
+  height: 100vh;
+  margin-bottom: 50px; }
+
+.emi-cardsfaq .cardfqas .itemorientacion p {
+  width: 100%; }
+
+.emi-cardsfaq .cardfqas .itemorientacion .ulsubfaqs {
+  padding: 0; }

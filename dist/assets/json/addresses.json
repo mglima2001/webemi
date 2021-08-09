@@ -1,0 +1,24 @@
+[
+    {"Id": "CL","Name": "Calle"},
+    {"Id": "CR","Name": "Carrera"},
+    {"Id": "DG","Name": "Diagonal"},
+    {"Id": "TV","Name": "Transversal"},
+    {"Id": "CQ","Name": "Circular"},
+    {"Id": "AV","Name": "Avenida"},
+    {"Id": "AK","Name": "Avenida Carrera"},
+    {"Id": "K","Name": "Kilometro"},
+    {"Id": "BL","Name": "Bulevar"},
+    {"Id": "CV","Name": "Circunvalar"},
+    {"Id": "TC","Name": "Troncal"},
+    {"Id": "KR","Name": "Variante"},
+    {"Id": "BL","Name": "Carretera"},
+    {"Id": "VI","Name": "Via"},
+    {"Id": "C","Name": "Corregimiento"},
+    {"Id": "VRD","Name": "Vereda"},
+    {"Id": "AU","Name": "Autopista"},
+    {"Id": "CC","Name": "Cuentas Corridas"},
+    {"Id": "PJ","Name": "Pasaje"},
+    {"Id": "PS","Name": "Paseo"},
+    {"Id": "PT","Name": "Peatonal"}
+]
+
